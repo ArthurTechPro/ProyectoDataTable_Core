@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "nW8SGVA7TwkY8T4UBdm/I3CDZk5tUxfrXdJUIMHfimumdleNSjfheL9ig+IlGb5aZXt4RHNkmIejEjr41KZNkg==",
+  "success": false,
+  "projectFilePath": "D:\\Documentos Personales\\Mis Desarrollos\\Visual Studio 2022\\Proyect\\ProyectoDataTableCore\\ProyectoDataTableCore\\ProyectoDataTableCore.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation\" del origen remoto \"https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Data.SqlClient\" del origen remoto \"https://packagesource/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0\".",
+      "libraryId": "System.Data.SqlClient"
+    }
+  ]
+}
